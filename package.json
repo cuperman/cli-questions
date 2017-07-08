@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Test for CLI that prompts user with questions",
   "main": "index.js",
+  "bin": {
+    "ask": "./index.js"
+  },
   "scripts": {
     "test": "npm test"
   },
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/cuperman/cli-questions/issues"
   },
-  "homepage": "https://github.com/cuperman/cli-questions#readme"
+  "homepage": "https://github.com/cuperman/cli-questions#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
 }
