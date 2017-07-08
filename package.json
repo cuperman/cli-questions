@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/cuperman/cli-questions#readme",
   "dependencies": {
-    "commander": "^2.11.0"
+    "commander": "^2.11.0",
+    "inquirer": "^3.1.1"
   }
 }
