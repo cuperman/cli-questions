@@ -1,0 +1,19 @@
+{
+  "name": "cli-questions",
+  "version": "1.0.0",
+  "description": "Test for CLI that prompts user with questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuperman/cli-questions.git"
+  },
+  "author": "Jeff Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuperman/cli-questions/issues"
+  },
+  "homepage": "https://github.com/cuperman/cli-questions#readme"
+}
